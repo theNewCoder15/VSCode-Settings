@@ -1,5 +1,11 @@
 # VSCode-Settings
-Personal
+* Refer [WindowsSettings](https://github.com/theNewCoder15/VSCode-Settings/blob/master/WindowsSettings.json) for Windows Configuaration
+* Refer [MacSettings](https://github.com/theNewCoder15/VSCode-Settings/blob/master/Macsettings.json) for Mac Configuaration
+
+* Copy the settings from either of the 2 above
+* Open VSCode, Press CTRL+,
+* Click on {} on the top right corner.
+* Clear the file and Paste all the settings
 
 ## For PSR2 Standard auto formatter
 - Install the package [vscode-php-cs-fixer](https://github.com/junstyle/vscode-php-cs-fixer)
